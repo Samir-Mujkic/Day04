@@ -1,8 +1,8 @@
 function main(){
     //Only change code below this code
-   var myFirstName ="Samir";
-   var myLastName ="Mujkic";
-   var myHomeTown ="Sarajevo";
+   var myFirstName = "Samir";
+   var myLastName = "Mujkic";
+   var myHomeTown = "Sarajevo";
     
     
     //Only change code above this line
