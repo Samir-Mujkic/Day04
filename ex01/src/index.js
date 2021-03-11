@@ -1,7 +1,6 @@
 function main(numOne,numTwo){
     //Only change code below this code
-    var numOne = numOne;
-    var numTwo = numTwo;
+    
     var quotient;
     if(numTwo===0){
 
